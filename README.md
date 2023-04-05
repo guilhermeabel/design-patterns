@@ -11,28 +11,32 @@ This repository contains examples of design patterns implemented in multiple pro
 
 ### The patterns you will find in here are:
 
-🛠️ Factory Method  
-🏭 Abstract Factory   
-🚀 Builder  
-🎓 Singleton  
-🐣 Prototype  
-🌉 Adapter  
-📦 Composite  
-🧱 Facade  
-🕵️‍♂️ Proxy  
-🌉 Bridge  
-🌺 Decorator  
-🍃 Flyweight  
-🧬 Chain of Responsibility  
-🕰️ Memento  
-📝 Template Method  
-⚙️ Command  
-🔍 Observer  
-🚶‍♂️ Visitor  
-🔁 Iterator  
-🧭 State  
-🤝 Mediator  
-🎯 Strategy  
+🏗️ Creational Patterns:
+🛠️ Factory Method
+🏭 Abstract Factory
+🚀 Builder
+🎓 Singleton
+🐣 Prototype
 
+🏗️ Structural Patterns:
+🌉 Adapter
+📦 Composite
+🧱 Facade
+🕵️‍♂️ Proxy
+🌉 Bridge
+🌺 Decorator
+🍃 Flyweight
+
+🏗️ Behavioral Patterns:
+🧬 Chain of Responsibility
+🕰️ Memento
+📝 Template Method
+⚙️ Command
+🔍 Observer
+🚶‍♂️ Visitor
+🔁 Iterator
+🧭 State
+🤝 Mediator
+🎯 Strategy
 
 :sparkles: Contributions are welcome and encouraged. :pencil:
