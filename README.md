@@ -1,6 +1,6 @@
 # design-patterns
 
-## in PHP:elephant: Java:coffee: and C#:knife
+## in PHP:elephant: Java:coffee: and C#:knife:
 
 ### Examples of design patterns for reference and learning purposes
 
