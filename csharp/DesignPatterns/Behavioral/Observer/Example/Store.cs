@@ -1,4 +1,4 @@
-namespace DesignPatterns.Observer.Example
+namespace DesignPatterns.Behavioral.Observer.Example
 {
 	public class Store : ISubject
 	{

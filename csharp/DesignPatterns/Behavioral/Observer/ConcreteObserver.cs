@@ -1,4 +1,4 @@
-namespace DesignPatterns.Observer
+namespace DesignPatterns.Behavioral.Observer
 {
 	// The Concrete Subject (observable) maintains a list of its observers and sends notifications to them when its state changes.
 	// Concrete Observers receive notifications from the Concrete Subject and react to changes.

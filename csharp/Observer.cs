@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Observer.Example;
+﻿using DesignPatterns.Behavioral.Observer.Example;
 
 Store store = new Store();
 
