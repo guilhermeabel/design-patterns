@@ -1,4 +1,4 @@
-namespace DesignPatterns.Behavioral.Observer.Example
+namespace DesignPatterns.Behavioral.Observer
 {
 	public class Product
 	{
