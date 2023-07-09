@@ -1,0 +1,18 @@
+{
+    "name": "php/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Abel",
+            "email": "guilhermeabel8@gmail.com"
+        }
+    ],
+    "require": {
+        "guilhermeabel/matcha-orm": "dev-master"
+    },
+	"minimum-stability": "dev"
+}

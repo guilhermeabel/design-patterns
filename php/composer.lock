@@ -1,0 +1,79 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8e1e38a13d829f65dee12a277c97dfdf",
+    "packages": [
+        {
+            "name": "guilhermeabel/matcha-orm",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guilhermeabel/matcha-orm.git",
+                "reference": "10d26cc8b5813677a5c6ae747cbd77a75dbabe70"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guilhermeabel/matcha-orm/zipball/10d26cc8b5813677a5c6ae747cbd77a75dbabe70",
+                "reference": "10d26cc8b5813677a5c6ae747cbd77a75dbabe70",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "ext-pdo": "*",
+                "php": ">=8.1"
+            },
+            "require-dev": {
+                "doctrine/dbal": "^2.10",
+                "phpunit/phpunit": "^9.0",
+                "squizlabs/php_codesniffer": "3.*"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "helpers.php"
+                ],
+                "psr-4": {
+                    "MatchaORM\\": "src/",
+                    "Examples\\MatchaORM\\": "examples/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Your Name",
+                    "email": "your.email@example.com"
+                }
+            ],
+            "description": "A lightweight and flexible Object-Relational Mapping (ORM) library for PHP",
+            "keywords": [
+                "database",
+                "mapper",
+                "orm",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/guilhermeabel/matcha-orm/issues",
+                "source": "https://github.com/guilhermeabel/matcha-orm/tree/master"
+            },
+            "time": "2023-07-04T23:52:16+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "guilhermeabel/matcha-orm": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
